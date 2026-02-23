@@ -55,14 +55,5 @@ python seo_monitor.py
 3. Optionally save results to CSV for tracking changes over time.
 
 ## Example Output
-╒══════════╤════════════════════════════╤════════════════════════════════════════════╤════════╕
-│ Position │ Title                      │ Link                                       │ Change │
-╞══════════╪════════════════════════════╪════════════════════════════════════════════╪════════╡
-│ 1        │ Example Title 1            │ https://example.com/article1               │ New    │
-├──────────┼────────────────────────────┼────────────────────────────────────────────┼────────┤
-│ 2        │ Example Title 2            │ https://example.com/article2               │ 1      │
-├──────────┼────────────────────────────┼────────────────────────────────────────────┼────────┤
-│ 3        │ Example Title 3            │ https://example.com/article3               │ -1     │
-╘══════════╧════════════════════════════╧════════════════════════════════════════════╧════════╛
 
 (Screenshot available in /screenshots/cli_output.png)
